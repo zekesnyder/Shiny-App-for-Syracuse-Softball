@@ -2,7 +2,7 @@
 
 An interactive R Shiny app that turns softball game data into hitting and pitching analysis that coaches and players can explore without writing code. It is styled in Syracuse orange and blue.
 
-**[Live app](http://127.0.0.1:6871)**
+
 
 ## What It Does
 
